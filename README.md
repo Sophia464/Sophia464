@@ -2,13 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Python </b>
 
-- <b>SQL</b>
-
-- <b> Conducting a Security Audit </b>
  
-
 <h2> Certifications </h2>
 
 

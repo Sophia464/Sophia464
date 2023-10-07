@@ -3,10 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Conducting a Security Audit </b>
-
+<br /> https://github.com/Sophia464/SecurityAudit
  
 <h2> Certifications </h2>
-
+https://coursera.org/share/2f7381848886ec528b510a5ce655b835
 
 <h2> 🤳 Connect with me:</h2>
 

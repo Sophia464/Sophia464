@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sophia Nwagbo! <br/><a  >Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecuritu Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Python </b>
 
